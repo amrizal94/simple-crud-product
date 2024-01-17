@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mie Sedaap",
+      "desc": "Mie goreng rasa ayam panggang",
+      "price": 3000,
+      "quantity": 10
+    },
+    {
+      "id": "2",
+      "name": "Ciptadent",
+      "desc": "pasta gigi mumer",
+      "price": 4000,
+      "quantity": 5
+    },
+    {
+      "id": "3",
+      "name": "Nuvo",
+      "desc": "sabun mandi",
+      "price": 3500,
+      "quantity": 100
+    }
+  ]
+}
